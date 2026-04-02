@@ -23,18 +23,21 @@ The ultasonic sensor continuously measures the distance of an approaching object
 
 ## Applications
 
-* Railway crossing automation
-* Accident prevention systems
-* Smart transportation systems
+* Railway crossing automation.
+* Accident prevention systems.
+* Smart transportation systems.
 
 ## Future Improvements
 
-* Integration with IoT for remote monitoring
-* Use of IR sensors for better accuracy
-* GSM-based alert system
+* Integration with IoT for remote monitoring.
+* Use of IR sensors for better accuracy.
+* GSM-based alert system.
 
 ## Block Diagram
 ![Block Diagram](block_diagram.jpeg)
 
 ## Project Model
 ![Model](railway_model.jpeg)
+
+## Output / Result
+System successfully detects train and ccontrols train and controls gate automatically.
