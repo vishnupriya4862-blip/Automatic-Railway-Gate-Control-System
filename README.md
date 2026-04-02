@@ -32,3 +32,9 @@ The ultasonic sensor continuously measures the distance of an approaching object
 * Integration with IoT for remote monitoring
 * Use of IR sensors for better accuracy
 * GSM-based alert system
+
+## Block Diagram
+![Block Diagram](block_diagram.jpeg)
+
+## Project Model
+![Model](railway_model.jpeg)
