@@ -40,4 +40,8 @@ The ultasonic sensor continuously measures the distance of an approaching object
 ![Model](railway_model.jpeg)
 
 ## Output / Result
-System successfully detects train and ccontrols train and controls gate automatically.
+
+* Automatic detection of approaching train.
+* Gate closes using servo motor.
+* Buzzer alerts nearby vechicles.
+* Gate opens automatically after train passes.
